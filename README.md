@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for a remote work **as a junior frontend developer**
 
-- 👨‍💻 All of my projects are available at [this github account](https://github.com/kagerka)
+- 👨‍💻 All of my projects are available at [this github account](https://github.com/kagerka?tab=repositories)
 
 - 📫 How to reach me:
   - Telegram: **https://t.me/kagera**

@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [this github account](https://github.com/kagerka?tab=repositories)
 
+- 📄 My [Curriculum vitae (CV)](https://kagerka.github.io/cv/) with actual information
+
 - 📫 How to reach me:
   - Telegram: **https://t.me/kagera**
   - Discord: **kagerka#6708**

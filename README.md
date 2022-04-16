@@ -40,8 +40,8 @@
 [![Screenshot_77](https://user-images.githubusercontent.com/52308117/139587614-1526e0a2-0bf7-459c-b20c-03ef6bed40fa.png)](https://app.rs.school/certificate/wum0os0i)
 [![Screenshot_78](https://user-images.githubusercontent.com/52308117/139587617-e3442593-e683-4728-803a-a4a13fc576b6.png)](https://app.rs.school/certificate/pw3f1xeu) 
 
-
-
+### Statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagerka&layout=compact)](https://github.com/kagerka?tab=repositories)
 
 
 <!--

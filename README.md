@@ -11,7 +11,7 @@
 
 - 📫 How to reach me:
   - Telegram: **https://t.me/kagera**
-  - Discord: **kagerka#6708**
+  - Discord: [**kagerka#6708**](https://discordapp.com/users/671604573961453588/)
 
 
 <h3 align="left">Languages and Tools:</h3>

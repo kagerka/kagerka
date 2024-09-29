@@ -52,7 +52,10 @@
 ## Certificates:
 ### 2024:
 
-[![Screenshot_42](https://github.com/user-attachments/assets/7c06e193-f1d7-4c53-99d7-dd05ae912f3c)](https://app.rs.school/certificate/c40zfxza)
+[![Screenshot_20](https://github.com/user-attachments/assets/2a4f7f3c-d7e5-4676-a201-86dd045e49b4)](https://app.rs.school/certificate/c40zfxza)
+[![Screenshot_10](https://github.com/user-attachments/assets/18bd4e69-29ae-48ad-b531-9f3dbcd55f4f)](https://app.rs.school/certificate/0mspl3r2)
+
+
 
 ### 2021:
 

@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">A junior frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, NodeJS**
 
 - 🤝 I’m looking for a remote work **as a junior frontend developer**
 
 - 👨‍💻 All of my projects are available at [this github account](https://github.com/kagerka?tab=repositories)
+  - RS School projects: 
+    - [JavaScript / Front-End 2023Q4](https://github.com/kagerka/kagerka-JSFE2023Q4)
+    - [Final task (JS/FE) / eCommerce-Application](https://github.com/kagerka/eCommerce-Application)
+    - [React 2024Q3](https://github.com/kagerka/react-2024-q3)
+    - [Final task (React) / GraphiQL App](https://github.com/kagerka/graphiql-app)
 
 - 📄 My [Curriculum vitae (CV)](https://kagerka.github.io/cv/) with actual information
 
 - 📫 How to reach me:
+  - E-mail: **kotliarenko.ekaterina@gmail.com**
   - Telegram: **https://t.me/kagera**
   - Discord: [**kagerka**](https://discordapp.com/users/671604573961453588/)
 
